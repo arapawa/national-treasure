@@ -6,8 +6,6 @@ const base = new Airtable({ apiKey: 'keyCxnlep0bgotSrX' }).base('appHXXoVD1tn9QA
 
 import Header from './header';
 import Footer from './footer';
-import Modal from './modal';
-import Tile from './tile';
 
 import dynamicSort from '../helpers/dynamicSort';
 
