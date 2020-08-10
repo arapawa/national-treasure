@@ -5,22 +5,19 @@ class Header extends Component {
     super(props);
 
     const messages = [
-      'Building the better mouse trap',
-      'What\'s in your Limeade?',
-      'Limeade, from the comfort of your own home',
-      'Take a penny, leave a penny',
-      'Because you\'re special',
-      'Scratching an itch you don\'t have',
-      'Swimming against the tides',
-      'Leading a lion with a steak',
-      'Cracking eggs with a hammer',
-      'Pure delight',
-      'More than just a taste',
-      'See more, do more',
-      'Take it to the limit',
-      'Feel the magic',
-      'New and improved',
-      'Evolution. Revolution. Love.'
+      'Benjamin Franklin invented something like this.',
+      'Will someone please explain to me what these magic numbers are?',
+      'It\'s invisible.',
+      'Where are the letters?',
+      'I take it you found the treasure.',
+      'There is not a treasure map on the back of the Declaration of Independence.',
+      'You\'re treasure hunters, aren\'t you?',
+      'I just really thought I was gonna find the treasure.',
+      'Did Bigfoot take it?',
+      'Does it involve treasure?',
+      'It\'s the axiom of treasure hunting.',
+      'I\'m not all right! Those men have the Declaration of Independence!',
+      'Where\'s the party?'
     ];
 
     this.state = {
